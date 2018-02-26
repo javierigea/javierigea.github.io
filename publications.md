@@ -2,11 +2,14 @@
 layout: page
 title: Publications
 ---
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 ### [Google Scholar](https://scholar.google.com/citations?user=8gKp6zgAAAAJ&hl=en)       [ResearchGate](https://www.researchgate.net/profile/Javier_Igea)
 
 
-* **Igea, J.**, Miller, E.F., Papadopulos, A.S.T., and Tanentzap, A.J. (2017) Seed size and its rate of evolution correlate with species diversification across angiosperms. *PLOS Biology* 15(7): e2002792. [[link]](https://doi.org/10.1371/journal.pbio.2002792) [[Research Highlight in Nature]](https://www.nature.com/articles/d41586-017-02001-x)<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pbio.2002792" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+* **Igea, J.**, Miller, E.F., Papadopulos, A.S.T., and Tanentzap, A.J. (2017) Seed size and its rate of evolution correlate with species diversification across angiosperms. *PLOS Biology* 15(7): e2002792. [[link]](https://doi.org/10.1371/journal.pbio.2002792) [[Research Highlight in Nature]](https://www.nature.com/articles/d41586-017-02001-x)
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pbio.2002792" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 <p align="center">
 <a href="/files/Igea2017PLOSBiol.png">
   <img src="/files/Igea2017PLOSBiol.png" alt="Igea2017PLOSBiol" width='200'/>
