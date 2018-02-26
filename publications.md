@@ -12,7 +12,7 @@ title: Publications
 
 <p align="center">
 <a href="/files/Igea2017PLOSBiol.png">
-  <img src="/files/Igea2017PLOSBiol.png" alt="Igea2017PLOSBiol" width='200'/>
+  <img src="/files/Igea2017PLOSBiol.PNG" alt="Igea2017PLOSBiol" width='200'/>
 </a>
 </p>
 
