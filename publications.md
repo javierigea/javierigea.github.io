@@ -11,7 +11,7 @@ title: Publications
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pbio.2002792" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <p align="center">
-<a href="/files/Igea2017PLOSBiol.png">
+<a href="/files/Igea2017PLOSBiol.PNG">
   <img src="/files/Igea2017PLOSBiol.PNG" alt="Igea2017PLOSBiol" width='200'/>
 </a>
 </p>
